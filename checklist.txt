@@ -1,0 +1,2 @@
+ID	 Summary	  Expected result
+	Проверка	Ожидаемый результат
